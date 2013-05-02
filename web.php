@@ -1,7 +1,7 @@
 <?php
 // clase para la práctica 08
-// 2013-04-09
-// DRB
+// 2013-05-02 Modificacion para GitHub
+// EHR
 
 class web {
 	// propiedades
