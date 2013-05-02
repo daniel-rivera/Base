@@ -71,7 +71,7 @@
 <footer id="contentinfo" class="body">
 	<address id="about" class="vcard body">
 		<span class="primary">
-			<strong><a href="#" class="fn url">Práctica 8</a></strong>
+			<strong><a href="#" class="fn url">Práctica Final</a></strong>
  
 			<span class="role">Sistemas de Información para Internet</span>
 		</span><!-- /.primary -->
