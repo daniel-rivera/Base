@@ -1,5 +1,6 @@
 <?php
-	require_once('web.php');	
+	require_once('web.php');
+	//Modificado por Grethel para github
 ?>
 <!DOCTYPE html>
 <html lang="en">
