@@ -1,6 +1,6 @@
 <?php
 // clase para la práctica 08
-// 2013-04-09
+// 2013-05-02 Modificación para GitHub
 // DRB
 
 class form {
