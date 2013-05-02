@@ -1,7 +1,9 @@
-<?php
+﻿<?php
 // clase para la práctica 08
 // 2013-04-09
 // DRB
+
+//Modificacion para github!
 
 class web {
 	// propiedades
